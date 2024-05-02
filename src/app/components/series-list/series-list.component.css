@@ -4,9 +4,9 @@
 
 #TableBody tr:hover{
     cursor: pointer;
-    background-color: #cccccc;
+    background-color: #a0a0a0;
 }
 
 #TableBody tr:active{
-    background-color: #aaaaaa;
+    background-color: #707070;
 }

@@ -3,7 +3,7 @@ import { Serie } from '../../models/serie.model';
 import { SerieService } from '../../services/serie.service';
 
 @Component({
-  selector: 'series-list',
+  selector: 'app-series-list',
   templateUrl: './series-list.component.html',
   styleUrl: './series-list.component.css'
 })
